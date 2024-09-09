@@ -41,4 +41,4 @@ This project performs a comprehensive analysis of Reddit comments, focusing on s
 
 For any questions or feedback, please contact:
 - **Email**: abhishek86400kumar@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/abhishek-kumar-10k)
+- **LinkedIn**: www.linkedin.com/in/abhishek-kumar-10k
